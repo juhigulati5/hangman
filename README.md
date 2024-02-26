@@ -1,1 +1,1 @@
-In this code, the computer randomly generates a word from the word list. The user then has multiple chances to guess the word until a) they correctly guess or b) the hangman gets completed. If they guess a letter they've already guessed, they get an error. 
+In this code, the computer randomly generates a word from the word list. The user then has multiple chances to guess the word until a) they correctly guess or b) the hangman gets completed. If the user guesses a letter they've already guessed, they get an error. 
